@@ -1,0 +1,51 @@
+/*.image-change {
+  width: 383px;
+  height: 292px;
+  background: url("../images/fateen-bg.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  left: -131px;
+  border-top-right-radius: 139px;
+  border-bottom-left-radius: 144px;
+  overflow: hidden;
+}
+*/
+
+.container{
+display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        top: 100px;
+        color: #e5e5e5;
+        font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.heads{
+  width: 300px;
+  margin: auto;
+  position: relative;
+  top: 90px;
+  left: -128px;
+  color: aliceblue;
+  font-family: 'Alex Brush', cursive;
+  font-size:60px
+}
+
+.texstart{
+  top: 100px;
+  left: -131px;
+  color: aliceblue;
+
+}
+
+.texstart1{
+  top: 100px;
+  left: -131px;
+  color: aliceblue;
+  
+}
